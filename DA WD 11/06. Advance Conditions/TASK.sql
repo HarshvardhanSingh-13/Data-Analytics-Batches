@@ -8,7 +8,7 @@ Create a database named Bookstore.
 
 Create a table named Books with the following columns:
 
-book_id: Auto-incrementing integer, the primary key.
+book_id: the primary key.
 title: Text column, cannot be null.
 author: Text column, cannot be null.
 price: FLOAT column, cannot be null, with a default value of 9.99.
