@@ -1,6 +1,6 @@
 Objective:
 Create a database for managing an online bookstore. You will need to create a table to store details of books available in the bookstore. 
-The table should have constraints like AUTO_INCREMENT, NOT NULL, DEFAULT, and DATETIME
+The table should have constraints like AUTO_INCREMENT, NOT NULL, DEFAULT, and DATE
 
 Instructions:
 
