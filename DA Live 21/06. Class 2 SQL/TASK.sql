@@ -12,7 +12,7 @@ book_id: the primary key.
 title: Text column, cannot be null.
 author: Text column, cannot be null.
 price: FLOAT column, cannot be null, with a default value of 9.99.
-published_date: DateTime column, cannot be null.
+published_date: DateTime column, cannot be null default CURRENT TIMESTAMP.
 quantity_in_stock: Integer column, cannot be null, with a default value of 10.
 Insert the following data into the Books table:
 
